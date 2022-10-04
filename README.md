@@ -1,19 +1,30 @@
-# A-Frame Project
+# GEOLOGY VR FOR OIL & GAS TRAINING
 
-**[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
+## DESCOBRIR O IP
 
-Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences.
+### LINUX - UBUNTU
 
-Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Quest, desktop, mobile platforms.
-
-Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://aframe.io/docs/0.8.0/introduction/vr-headsets-and-webvr-browsers.html)!
-
-## GET YOUR IP
+[IP no Linux](https://help.ubuntu.com/stable/ubuntu-help/net-findip.html.en)
 
 ### WINDOWS
 
 You can find your local network's IP by go to `Command Prompt` or press Windows + R then type in `ipconfig`. It will give out some information and your local IP should look like `192.168.1.x.`
 
-## SSL CERTIFICATE
+## SSL CERTIFICADO
 
-[How get a CRT and KEY](https://medium.com/webisora/how-to-enable-https-on-live-server-visual-studio-code-5659fbc5542c)
+[Como criar CRT e KEY](https://medium.com/webisora/how-to-enable-https-on-live-server-visual-studio-code-5659fbc5542c)
+
+## LIVE SERVER
+
+Instalar a extensão do VSCode `Live Server`
+
+## SETAR AS DEFINIÇÕES PARA O CONSUMO DO SSL
+
+Em `.vscode/settings.json` colocar o caminho do certificado na máquina (em exemplo está o caminho onde o projeto esta no meu computador)
+
+## RODAR A APLICAÇÃO
+
+- Passo 1: Selecionar o arquivo `index.html` e no VSCode na barra inferior a direita, clicar em `GO Live`
+- Passo 2: Abrir o navegador com a seguinte URL: https://IP:5500/index.html
+- Passo 3: clicar em `advanced` para acessar (apenas na primeira vez ou se limpar a confirmação)
+- Passo 4: clicar em `Proceed to 0.0.0.0 <-IP (unsafe)` (apenas na primeira vez ou se limpar a confirmação)
