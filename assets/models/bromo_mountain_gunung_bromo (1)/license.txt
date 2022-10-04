@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bromo Mountain Gunung Bromo
+* source:	https://sketchfab.com/3d-models/bromo-mountain-gunung-bromo-c69ee886dedf4ae58345a5e05dcc3c24
+* author:	imanboer (https://sketchfab.com/imanboer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bromo Mountain Gunung Bromo" (https://sketchfab.com/3d-models/bromo-mountain-gunung-bromo-c69ee886dedf4ae58345a5e05dcc3c24) by imanboer (https://sketchfab.com/imanboer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
